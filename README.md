@@ -1,4 +1,4 @@
-# default-vue
+# default-vue-vuetify
 
 ## Project setup
 ```
